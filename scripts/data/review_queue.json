@@ -1,0 +1,468 @@
+[
+  {
+    "lead_id": "c7795dfe-7758-49dc-81d5-a5b3d092b2ab",
+    "run_id": "run_20260309_2009",
+    "sourced_at": "2026-03-09T20:18:56.594980",
+    "source": "yc",
+    "contact": {
+      "full_name": "",
+      "first_name": "",
+      "title": "CEO",
+      "persona_type": "FOUNDER_CEO",
+      "email": "",
+      "email_confidence": "unknown",
+      "linkedin_url": "",
+      "location": "New York, NY, USA"
+    },
+    "company": {
+      "name": "Cohesive",
+      "website": "https://cohesive.so",
+      "industry": "SaaS",
+      "employee_count": 15,
+      "funding_stage": "Seed",
+      "ats_in_use": "unknown",
+      "open_role_count": 3,
+      "careers_page_url": ""
+    },
+    "signals": {
+      "primary_signal": "yc_backed_founder",
+      "signal_detail": "YC Spring 2025 B2B, isHiring=true. The agentic CRM for blue-collar services",
+      "social_post_content": "",
+      "social_post_url": ""
+    },
+    "scoring": {
+      "fit_score": 5.5,
+      "fit_rationale": "Firmographic(2.0/4): 15 employees, outside ICP range (+0); Industry 'saas' matches (+1); US-based or remote (+1) | Persona(2.5/3): 'CEO' \u2192 Founder/CEO at 15 emp (<200) (+2.5) | Signal(1.0/3): YC-backed but older batch (+1)",
+      "strongest_signal": "yc_backed",
+      "discard_reason": ""
+    },
+    "status": "hold",
+    "agent2_queued": false,
+    "siddhant_notes": "",
+    "last_updated": "2026-03-09T20:18:56.594980"
+  },
+  {
+    "lead_id": "c54816cc-9165-4735-b712-05196f9553a4",
+    "run_id": "run_20260309_2009",
+    "sourced_at": "2026-03-09T20:18:56.594980",
+    "source": "yc",
+    "contact": {
+      "full_name": "",
+      "first_name": "",
+      "title": "CEO",
+      "persona_type": "FOUNDER_CEO",
+      "email": "",
+      "email_confidence": "unknown",
+      "linkedin_url": "",
+      "location": "San Francisco, CA, USA"
+    },
+    "company": {
+      "name": "Docket",
+      "website": "https://docket.dev",
+      "industry": "SaaS",
+      "employee_count": 15,
+      "funding_stage": "Seed",
+      "ats_in_use": "unknown",
+      "open_role_count": 3,
+      "careers_page_url": ""
+    },
+    "signals": {
+      "primary_signal": "yc_backed_founder",
+      "signal_detail": "YC Spring 2025 B2B, isHiring=true. AI agents for web testing",
+      "social_post_content": "",
+      "social_post_url": ""
+    },
+    "scoring": {
+      "fit_score": 5.5,
+      "fit_rationale": "Firmographic(2.0/4): 15 employees, outside ICP range (+0); Industry 'saas' matches (+1); US-based or remote (+1) | Persona(2.5/3): 'CEO' \u2192 Founder/CEO at 15 emp (<200) (+2.5) | Signal(1.0/3): YC-backed but older batch (+1)",
+      "strongest_signal": "yc_backed",
+      "discard_reason": ""
+    },
+    "status": "hold",
+    "agent2_queued": false,
+    "siddhant_notes": "",
+    "last_updated": "2026-03-09T20:18:56.594980"
+  },
+  {
+    "lead_id": "67a59614-e228-4d90-811a-d34ad8ba08da",
+    "run_id": "run_20260309_2009",
+    "sourced_at": "2026-03-09T20:18:56.594980",
+    "source": "yc",
+    "contact": {
+      "full_name": "",
+      "first_name": "",
+      "title": "CEO",
+      "persona_type": "FOUNDER_CEO",
+      "email": "",
+      "email_confidence": "unknown",
+      "linkedin_url": "",
+      "location": "San Francisco, CA, USA"
+    },
+    "company": {
+      "name": "Bond",
+      "website": "https://bond.ai",
+      "industry": "SaaS",
+      "employee_count": 15,
+      "funding_stage": "Seed",
+      "ats_in_use": "unknown",
+      "open_role_count": 3,
+      "careers_page_url": ""
+    },
+    "signals": {
+      "primary_signal": "yc_backed_founder",
+      "signal_detail": "YC Spring 2025 B2B, isHiring=true. Your AI Chief of Staff",
+      "social_post_content": "",
+      "social_post_url": ""
+    },
+    "scoring": {
+      "fit_score": 5.5,
+      "fit_rationale": "Firmographic(2.0/4): 15 employees, outside ICP range (+0); Industry 'saas' matches (+1); US-based or remote (+1) | Persona(2.5/3): 'CEO' \u2192 Founder/CEO at 15 emp (<200) (+2.5) | Signal(1.0/3): YC-backed but older batch (+1)",
+      "strongest_signal": "yc_backed",
+      "discard_reason": ""
+    },
+    "status": "hold",
+    "agent2_queued": false,
+    "siddhant_notes": "",
+    "last_updated": "2026-03-09T20:18:56.594980"
+  },
+  {
+    "lead_id": "d855a5d9-412b-4f71-bfa9-022c86bd58c8",
+    "run_id": "run_20260309_2009",
+    "sourced_at": "2026-03-09T20:18:56.594980",
+    "source": "yc",
+    "contact": {
+      "full_name": "",
+      "first_name": "",
+      "title": "CEO",
+      "persona_type": "FOUNDER_CEO",
+      "email": "",
+      "email_confidence": "unknown",
+      "linkedin_url": "",
+      "location": "San Francisco, CA, USA"
+    },
+    "company": {
+      "name": "Airweave",
+      "website": "https://airweave.ai",
+      "industry": "SaaS",
+      "employee_count": 15,
+      "funding_stage": "Seed",
+      "ats_in_use": "unknown",
+      "open_role_count": 3,
+      "careers_page_url": ""
+    },
+    "signals": {
+      "primary_signal": "yc_backed_founder",
+      "signal_detail": "YC Spring 2025 B2B, isHiring=true. Context retrieval for AI agents across apps",
+      "social_post_content": "",
+      "social_post_url": ""
+    },
+    "scoring": {
+      "fit_score": 5.5,
+      "fit_rationale": "Firmographic(2.0/4): 15 employees, outside ICP range (+0); Industry 'saas' matches (+1); US-based or remote (+1) | Persona(2.5/3): 'CEO' \u2192 Founder/CEO at 15 emp (<200) (+2.5) | Signal(1.0/3): YC-backed but older batch (+1)",
+      "strongest_signal": "yc_backed",
+      "discard_reason": ""
+    },
+    "status": "hold",
+    "agent2_queued": false,
+    "siddhant_notes": "",
+    "last_updated": "2026-03-09T20:18:56.594980"
+  },
+  {
+    "lead_id": "d98b027f-960b-498d-a0b4-6bc6485be913",
+    "run_id": "run_20260309_2009",
+    "sourced_at": "2026-03-09T20:18:56.594980",
+    "source": "yc",
+    "contact": {
+      "full_name": "",
+      "first_name": "",
+      "title": "CEO",
+      "persona_type": "FOUNDER_CEO",
+      "email": "",
+      "email_confidence": "unknown",
+      "linkedin_url": "",
+      "location": "San Francisco, CA, USA"
+    },
+    "company": {
+      "name": "Theorem",
+      "website": "https://theorem.dev",
+      "industry": "SaaS",
+      "employee_count": 15,
+      "funding_stage": "Seed",
+      "ats_in_use": "unknown",
+      "open_role_count": 3,
+      "careers_page_url": ""
+    },
+    "signals": {
+      "primary_signal": "yc_backed_founder",
+      "signal_detail": "YC Spring 2025 B2B, isHiring=true. Program verification for systems engineers",
+      "social_post_content": "",
+      "social_post_url": ""
+    },
+    "scoring": {
+      "fit_score": 5.5,
+      "fit_rationale": "Firmographic(2.0/4): 15 employees, outside ICP range (+0); Industry 'saas' matches (+1); US-based or remote (+1) | Persona(2.5/3): 'CEO' \u2192 Founder/CEO at 15 emp (<200) (+2.5) | Signal(1.0/3): YC-backed but older batch (+1)",
+      "strongest_signal": "yc_backed",
+      "discard_reason": ""
+    },
+    "status": "hold",
+    "agent2_queued": false,
+    "siddhant_notes": "",
+    "last_updated": "2026-03-09T20:18:56.594980"
+  },
+  {
+    "lead_id": "9a2ccb08-09d9-49ff-a238-66e5d1010cf4",
+    "run_id": "run_20260309_2009",
+    "sourced_at": "2026-03-09T20:18:56.594980",
+    "source": "yc",
+    "contact": {
+      "full_name": "",
+      "first_name": "",
+      "title": "CEO",
+      "persona_type": "FOUNDER_CEO",
+      "email": "",
+      "email_confidence": "unknown",
+      "linkedin_url": "",
+      "location": "San Francisco, CA, USA"
+    },
+    "company": {
+      "name": "Manifold",
+      "website": "https://manifold.dev",
+      "industry": "SaaS",
+      "employee_count": 15,
+      "funding_stage": "Seed",
+      "ats_in_use": "unknown",
+      "open_role_count": 3,
+      "careers_page_url": ""
+    },
+    "signals": {
+      "primary_signal": "yc_backed_founder",
+      "signal_detail": "YC Spring 2025 B2B, isHiring=true. AI agent observability",
+      "social_post_content": "",
+      "social_post_url": ""
+    },
+    "scoring": {
+      "fit_score": 5.5,
+      "fit_rationale": "Firmographic(2.0/4): 15 employees, outside ICP range (+0); Industry 'saas' matches (+1); US-based or remote (+1) | Persona(2.5/3): 'CEO' \u2192 Founder/CEO at 15 emp (<200) (+2.5) | Signal(1.0/3): YC-backed but older batch (+1)",
+      "strongest_signal": "yc_backed",
+      "discard_reason": ""
+    },
+    "status": "hold",
+    "agent2_queued": false,
+    "siddhant_notes": "",
+    "last_updated": "2026-03-09T20:18:56.594980"
+  },
+  {
+    "lead_id": "f4a4d586-b847-417e-a1dd-c977b2327a7c",
+    "run_id": "run_20260309_2009",
+    "sourced_at": "2026-03-09T20:18:56.594980",
+    "source": "yc",
+    "contact": {
+      "full_name": "",
+      "first_name": "",
+      "title": "CEO",
+      "persona_type": "FOUNDER_CEO",
+      "email": "",
+      "email_confidence": "unknown",
+      "linkedin_url": "",
+      "location": "San Francisco, CA, USA"
+    },
+    "company": {
+      "name": "Pylon",
+      "website": "https://usepylon.com",
+      "industry": "SaaS",
+      "employee_count": 15,
+      "funding_stage": "Seed",
+      "ats_in_use": "unknown",
+      "open_role_count": 3,
+      "careers_page_url": ""
+    },
+    "signals": {
+      "primary_signal": "yc_backed_founder",
+      "signal_detail": "YC Spring 2025 B2B, isHiring=true. B2B customer support platform",
+      "social_post_content": "",
+      "social_post_url": ""
+    },
+    "scoring": {
+      "fit_score": 5.5,
+      "fit_rationale": "Firmographic(2.0/4): 15 employees, outside ICP range (+0); Industry 'saas' matches (+1); US-based or remote (+1) | Persona(2.5/3): 'CEO' \u2192 Founder/CEO at 15 emp (<200) (+2.5) | Signal(1.0/3): YC-backed but older batch (+1)",
+      "strongest_signal": "yc_backed",
+      "discard_reason": ""
+    },
+    "status": "hold",
+    "agent2_queued": false,
+    "siddhant_notes": "",
+    "last_updated": "2026-03-09T20:18:56.594980"
+  },
+  {
+    "lead_id": "8f05ef05-0306-4b8c-bdf7-c8aa63c1e7a0",
+    "run_id": "run_20260309_2009",
+    "sourced_at": "2026-03-09T20:18:56.594980",
+    "source": "yc",
+    "contact": {
+      "full_name": "",
+      "first_name": "",
+      "title": "CEO",
+      "persona_type": "FOUNDER_CEO",
+      "email": "",
+      "email_confidence": "unknown",
+      "linkedin_url": "",
+      "location": "New York, NY, USA"
+    },
+    "company": {
+      "name": "Atlog",
+      "website": "https://atlog.ai",
+      "industry": "SaaS",
+      "employee_count": 15,
+      "funding_stage": "Seed",
+      "ats_in_use": "unknown",
+      "open_role_count": 3,
+      "careers_page_url": ""
+    },
+    "signals": {
+      "primary_signal": "yc_backed_founder",
+      "signal_detail": "YC Spring 2025 B2B, isHiring=true. Voice AI compliance",
+      "social_post_content": "",
+      "social_post_url": ""
+    },
+    "scoring": {
+      "fit_score": 5.5,
+      "fit_rationale": "Firmographic(2.0/4): 15 employees, outside ICP range (+0); Industry 'saas' matches (+1); US-based or remote (+1) | Persona(2.5/3): 'CEO' \u2192 Founder/CEO at 15 emp (<200) (+2.5) | Signal(1.0/3): YC-backed but older batch (+1)",
+      "strongest_signal": "yc_backed",
+      "discard_reason": ""
+    },
+    "status": "hold",
+    "agent2_queued": false,
+    "siddhant_notes": "",
+    "last_updated": "2026-03-09T20:18:56.594980"
+  },
+  {
+    "lead_id": "e059fd06-21e1-448a-831a-5a2892c27fca",
+    "run_id": "run_20260309_2009",
+    "sourced_at": "2026-03-09T20:18:56.594980",
+    "source": "yc",
+    "contact": {
+      "full_name": "",
+      "first_name": "",
+      "title": "CEO",
+      "persona_type": "FOUNDER_CEO",
+      "email": "",
+      "email_confidence": "unknown",
+      "linkedin_url": "",
+      "location": "San Francisco, CA, USA"
+    },
+    "company": {
+      "name": "Leeroo",
+      "website": "https://leeroo.com",
+      "industry": "SaaS",
+      "employee_count": 15,
+      "funding_stage": "Seed",
+      "ats_in_use": "unknown",
+      "open_role_count": 3,
+      "careers_page_url": ""
+    },
+    "signals": {
+      "primary_signal": "yc_backed_founder",
+      "signal_detail": "YC Spring 2025 B2B, isHiring=true. Organizational Superintelligence",
+      "social_post_content": "",
+      "social_post_url": ""
+    },
+    "scoring": {
+      "fit_score": 5.5,
+      "fit_rationale": "Firmographic(2.0/4): 15 employees, outside ICP range (+0); Industry 'saas' matches (+1); US-based or remote (+1) | Persona(2.5/3): 'CEO' \u2192 Founder/CEO at 15 emp (<200) (+2.5) | Signal(1.0/3): YC-backed but older batch (+1)",
+      "strongest_signal": "yc_backed",
+      "discard_reason": ""
+    },
+    "status": "hold",
+    "agent2_queued": false,
+    "siddhant_notes": "",
+    "last_updated": "2026-03-09T20:18:56.594980"
+  },
+  {
+    "lead_id": "16021068-558e-4c7d-b1e1-6250c04df476",
+    "run_id": "run_20260309_2009",
+    "sourced_at": "2026-03-09T20:18:56.594980",
+    "source": "yc",
+    "contact": {
+      "full_name": "",
+      "first_name": "",
+      "title": "CEO",
+      "persona_type": "FOUNDER_CEO",
+      "email": "",
+      "email_confidence": "unknown",
+      "linkedin_url": "",
+      "location": "San Francisco, CA, USA"
+    },
+    "company": {
+      "name": "Partcl",
+      "website": "https://partcl.com",
+      "industry": "SaaS",
+      "employee_count": 15,
+      "funding_stage": "Seed",
+      "ats_in_use": "unknown",
+      "open_role_count": 3,
+      "careers_page_url": ""
+    },
+    "signals": {
+      "primary_signal": "yc_backed_founder",
+      "signal_detail": "YC Spring 2025 B2B, isHiring=true. Design a chip in minutes",
+      "social_post_content": "",
+      "social_post_url": ""
+    },
+    "scoring": {
+      "fit_score": 5.5,
+      "fit_rationale": "Firmographic(2.0/4): 15 employees, outside ICP range (+0); Industry 'saas' matches (+1); US-based or remote (+1) | Persona(2.5/3): 'CEO' \u2192 Founder/CEO at 15 emp (<200) (+2.5) | Signal(1.0/3): YC-backed but older batch (+1)",
+      "strongest_signal": "yc_backed",
+      "discard_reason": ""
+    },
+    "status": "hold",
+    "agent2_queued": false,
+    "siddhant_notes": "",
+    "last_updated": "2026-03-09T20:18:56.594980"
+  },
+  {
+    "lead_id": "4b2f45f0-846d-4f25-9361-a3f0bba1fdc2",
+    "run_id": "run_20260314_1642",
+    "sourced_at": "2026-03-14T23:42:44Z",
+    "source": "lever_board",
+    "contact": {
+      "full_name": "Contact TBD",
+      "first_name": "",
+      "title": "",
+      "persona_type": "UNKNOWN",
+      "email": "",
+      "email_confidence": "unknown",
+      "linkedin_url": "",
+      "location": "Columbus, OH (Distributed US/Canada/UK)"
+    },
+    "company": {
+      "name": "Loop Returns",
+      "website": "https://www.loopreturns.com",
+      "industry": "eCommerce SaaS",
+      "employee_count": 270,
+      "funding_stage": "Series B",
+      "ats_in_use": "lever",
+      "open_role_count": 9,
+      "careers_page_url": "https://jobs.lever.co/loopreturns"
+    },
+    "signals": {
+      "primary_signal": "hiring_tech_roles",
+      "signal_detail": "9 active open roles on Lever including Engineering Manager, Senior Software Engineers, ML Engineer, DevOps Engineer, People Coordinator as of March 2026. 280 employees, $53M revenue.",
+      "newsletter_source": "",
+      "newsletter_email_id": "",
+      "newsletter_date": "",
+      "signal_freshness_days": 0,
+      "social_post_content": "",
+      "social_post_url": ""
+    },
+    "scoring": {
+      "fit_score": 5.5,
+      "fit_rationale": "Firmographic(3.0/4): 270 employees, 50-500 range (+2); Industry 'ecommerce saas' matches (+1); Location 'columbus, oh (distributed us/canada/uk)' not US/remote (+0) | Persona(0.0/3): '' \u2192 No persona match (+0) | Signal(2.5/3): Hiring tech roles \u2014 active recruiting team (+2.5)",
+      "strongest_signal": "hiring_tech_roles",
+      "discard_reason": ""
+    },
+    "status": "hold",
+    "agent2_queued": false,
+    "siddhant_notes": "",
+    "last_updated": "2026-03-14T23:42:44Z"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "paused": false,
+  "priority_personas": ["VP_TA", "CHRO_CPO", "FOUNDER_CEO"],
+  "deprioritized_personas": [],
+  "priority_industries": ["SaaS", "Fintech", "HR Tech"],
+  "priority_signals": ["hiring_ta_role", "10_plus_open_roles", "recently_funded"],
+  "expand_sources": [],
+  "reduce_sources": [],
+  "min_fit_score_to_qualify": 6,
+  "max_leads_per_run": 100,
+  "notes": "Agent preferences updated by Siddhant via feedback emails."
+}

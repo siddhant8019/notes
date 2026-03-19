@@ -1,0 +1,278 @@
+[
+  {
+    "lead_id": "81580f2c-4925-4d03-9922-1e72ee79d96e",
+    "run_id": "run_20260314_1701",
+    "sourced_at": "2026-03-15T00:12:23.393160Z",
+    "source": "lever_board",
+    "contact": {
+      "full_name": "Contact TBD",
+      "first_name": "",
+      "title": "Head of Recruiting / VP People",
+      "persona_type": "UNKNOWN",
+      "email": "",
+      "email_confidence": "unknown",
+      "linkedin_url": "",
+      "location": "United States"
+    },
+    "company": {
+      "name": "Alignable",
+      "website": "https://www.alignable.com",
+      "industry": "B2B SaaS",
+      "employee_count": 220,
+      "funding_stage": "Series C",
+      "ats_in_use": "lever",
+      "open_role_count": 9,
+      "careers_page_url": "https://jobs.lever.co/Alignable"
+    },
+    "signals": {
+      "primary_signal": "10_plus_open_roles",
+      "signal_detail": "Alignable has 9+ active roles on Lever (Engineering Manager, Director of Engineering, Frontend Engineer, Product Designer) as of March 2026. Series C profitable.",
+      "newsletter_source": "",
+      "newsletter_email_id": "",
+      "newsletter_date": "",
+      "signal_freshness_days": 0,
+      "social_post_content": "",
+      "social_post_url": ""
+    },
+    "scoring": {
+      "fit_score": 0,
+      "fit_rationale": "",
+      "strongest_signal": "",
+      "discard_reason": "Duplicate lead"
+    },
+    "status": "discard",
+    "agent2_queued": false,
+    "siddhant_notes": "",
+    "last_updated": "2026-03-15T00:12:23.393160Z"
+  },
+  {
+    "lead_id": "b360007f-a887-4430-b13a-99b7e592046e",
+    "run_id": "run_20260314_1701",
+    "sourced_at": "2026-03-15T00:12:23.393160Z",
+    "source": "lever_board",
+    "contact": {
+      "full_name": "Contact TBD",
+      "first_name": "",
+      "title": "VP People / CHRO",
+      "persona_type": "UNKNOWN",
+      "email": "",
+      "email_confidence": "unknown",
+      "linkedin_url": "",
+      "location": "United States"
+    },
+    "company": {
+      "name": "360Learning",
+      "website": "https://www.360learning.com",
+      "industry": "EdTech SaaS",
+      "employee_count": 400,
+      "funding_stage": "Series B",
+      "ats_in_use": "lever",
+      "open_role_count": 10,
+      "careers_page_url": "https://jobs.lever.co/360learning"
+    },
+    "signals": {
+      "primary_signal": "10_plus_open_roles",
+      "signal_detail": "360Learning has 10+ active roles on Lever (Product Manager, Software Engineer, Lead Website Engineer, Junior Mobile Engineer, DevOps Engineer, Software Architect) as of March 2026. Raised $240M, 400+ employees.",
+      "newsletter_source": "",
+      "newsletter_email_id": "",
+      "newsletter_date": "",
+      "signal_freshness_days": 0,
+      "social_post_content": "",
+      "social_post_url": ""
+    },
+    "scoring": {
+      "fit_score": 0,
+      "fit_rationale": "",
+      "strongest_signal": "",
+      "discard_reason": "Duplicate lead"
+    },
+    "status": "discard",
+    "agent2_queued": false,
+    "siddhant_notes": "",
+    "last_updated": "2026-03-15T00:12:23.393160Z"
+  },
+  {
+    "lead_id": "15b7a958-6b7a-4007-875f-83cd158ecf1b",
+    "run_id": "run_20260314_1701",
+    "sourced_at": "2026-03-15T00:12:23.393160Z",
+    "source": "greenhouse_board",
+    "contact": {
+      "full_name": "Contact TBD",
+      "first_name": "",
+      "title": "VP Engineering / VP People",
+      "persona_type": "UNKNOWN",
+      "email": "",
+      "email_confidence": "unknown",
+      "linkedin_url": "",
+      "location": "United States"
+    },
+    "company": {
+      "name": "1upHealth",
+      "website": "https://1up.health",
+      "industry": "Healthcare Tech SaaS",
+      "employee_count": 150,
+      "funding_stage": "Series B",
+      "ats_in_use": "greenhouse",
+      "open_role_count": 5,
+      "careers_page_url": "https://boards.greenhouse.io/1uphealth"
+    },
+    "signals": {
+      "primary_signal": "hiring_tech_roles",
+      "signal_detail": "1upHealth has 5 active roles on Greenhouse (Engineering Manager, Senior Software Engineer, Sales Engineer, Associate Customer Support Engineer) as of March 2026. FHIR healthcare interoperability platform.",
+      "newsletter_source": "",
+      "newsletter_email_id": "",
+      "newsletter_date": "",
+      "signal_freshness_days": 0,
+      "social_post_content": "",
+      "social_post_url": ""
+    },
+    "scoring": {
+      "fit_score": 0,
+      "fit_rationale": "",
+      "strongest_signal": "",
+      "discard_reason": "Duplicate lead"
+    },
+    "status": "discard",
+    "agent2_queued": false,
+    "siddhant_notes": "",
+    "last_updated": "2026-03-15T00:12:23.393160Z"
+  },
+  {
+    "lead_id": "0e5979e9-71bb-44ae-a33c-65d18428d5b7",
+    "run_id": "run_20260314_1701",
+    "sourced_at": "2026-03-15T00:12:23.393160Z",
+    "source": "newsletter_funding",
+    "contact": {
+      "full_name": "Ali Khokhar",
+      "first_name": "Ali",
+      "title": "Co-Founder and CEO",
+      "persona_type": "FOUNDER_CEO",
+      "email": "",
+      "email_confidence": "unknown",
+      "linkedin_url": "https://www.linkedin.com/in/khokharali",
+      "location": "New York, NY"
+    },
+    "company": {
+      "name": "Amigo AI",
+      "website": "https://www.amigo.ai",
+      "industry": "Healthcare Tech SaaS",
+      "employee_count": 35,
+      "funding_stage": "Series A",
+      "ats_in_use": "unknown",
+      "open_role_count": 0,
+      "careers_page_url": ""
+    },
+    "signals": {
+      "primary_signal": "recently_funded",
+      "signal_detail": "Amigo AI raised $11M Series A on March 10, 2026. Madrona-backed. Clinical AI agents for patient intake and triage. NYC-based, founded 2023.",
+      "newsletter_source": "crunchbase_daily",
+      "newsletter_email_id": "19ce222fee0be14f",
+      "newsletter_date": "2026-03-12T00:00:00Z",
+      "signal_freshness_days": 2,
+      "social_post_content": "",
+      "social_post_url": ""
+    },
+    "scoring": {
+      "fit_score": 0,
+      "fit_rationale": "",
+      "strongest_signal": "",
+      "discard_reason": "Duplicate lead"
+    },
+    "status": "discard",
+    "agent2_queued": false,
+    "siddhant_notes": "",
+    "last_updated": "2026-03-15T00:12:23.393160Z"
+  },
+  {
+    "lead_id": "957a5a02-858c-4e7b-96fa-4b7365d28fde",
+    "run_id": "run_20260314_1701",
+    "sourced_at": "2026-03-15T00:12:23.393160Z",
+    "source": "yc",
+    "contact": {
+      "full_name": "Contact TBD",
+      "first_name": "",
+      "title": "CEO / Co-Founder",
+      "persona_type": "FOUNDER_CEO",
+      "email": "",
+      "email_confidence": "unknown",
+      "linkedin_url": "",
+      "location": "San Francisco, CA"
+    },
+    "company": {
+      "name": "Infisical",
+      "website": "https://infisical.com",
+      "industry": "DevSecOps SaaS",
+      "employee_count": 60,
+      "funding_stage": "Series A",
+      "ats_in_use": "unknown",
+      "open_role_count": 3,
+      "careers_page_url": "https://www.ycombinator.com/companies/infisical/jobs"
+    },
+    "signals": {
+      "primary_signal": "hiring_ta_role",
+      "signal_detail": "Infisical (YC W23) is actively hiring a Recruiter via YC Jobs board as of March 2026. Open-source secrets management SaaS. ~60 employees, Series A.",
+      "newsletter_source": "",
+      "newsletter_email_id": "",
+      "newsletter_date": "",
+      "signal_freshness_days": 0,
+      "social_post_content": "",
+      "social_post_url": ""
+    },
+    "scoring": {
+      "fit_score": 0,
+      "fit_rationale": "",
+      "strongest_signal": "",
+      "discard_reason": "Duplicate lead"
+    },
+    "status": "discard",
+    "agent2_queued": false,
+    "siddhant_notes": "",
+    "last_updated": "2026-03-15T00:12:23.393160Z"
+  },
+  {
+    "lead_id": "f5d75a2f-23af-4dd7-a3c1-4dd68f303133",
+    "run_id": "run_20260314_1701",
+    "sourced_at": "2026-03-15T00:12:23.393160Z",
+    "source": "yc",
+    "contact": {
+      "full_name": "Contact TBD",
+      "first_name": "",
+      "title": "CEO / Co-Founder",
+      "persona_type": "FOUNDER_CEO",
+      "email": "",
+      "email_confidence": "unknown",
+      "linkedin_url": "",
+      "location": "United States"
+    },
+    "company": {
+      "name": "Heron Data",
+      "website": "https://www.herondata.io",
+      "industry": "Fintech SaaS",
+      "employee_count": 55,
+      "funding_stage": "Series A",
+      "ats_in_use": "unknown",
+      "open_role_count": 3,
+      "careers_page_url": "https://www.ycombinator.com/companies/heron-data/jobs"
+    },
+    "signals": {
+      "primary_signal": "hiring_ta_role",
+      "signal_detail": "Heron Data (YC S20) is actively hiring a Senior Recruiter via YC Jobs board as of March 2026. Fintech data classification/automation SaaS. ~55 employees.",
+      "newsletter_source": "",
+      "newsletter_email_id": "",
+      "newsletter_date": "",
+      "signal_freshness_days": 0,
+      "social_post_content": "",
+      "social_post_url": ""
+    },
+    "scoring": {
+      "fit_score": 0,
+      "fit_rationale": "",
+      "strongest_signal": "",
+      "discard_reason": "Duplicate lead"
+    },
+    "status": "discard",
+    "agent2_queued": false,
+    "siddhant_notes": "",
+    "last_updated": "2026-03-15T00:12:23.393160Z"
+  }
+]
