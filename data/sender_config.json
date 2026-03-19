@@ -1,0 +1,26 @@
+{
+  "rotation_strategy": "round_robin",
+  "daily_limit_per_address": 10,
+  "send_window": {
+    "start": "09:00",
+    "end": "17:00",
+    "timezone": "America/Los_Angeles",
+    "weekdays_only": true
+  },
+  "senders": [
+    {
+      "email": "PLACEHOLDER@getteamcastai.com",
+      "display_name": "Placeholder Name",
+      "domain": "getteamcastai.com",
+      "active": false,
+      "daily_sent_today": 0,
+      "last_sent_date": null,
+      "smtp_config": {
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "auth_env_key": "SENDER_1_APP_PASSWORD"
+      }
+    }
+  ],
+  "_instructions": "Add your sender email addresses here. Set active: true when ready. The pipeline will round-robin across all active senders, capping at daily_limit_per_address per sender per day. Each sender needs an app password stored in .env under the auth_env_key name."
+}
