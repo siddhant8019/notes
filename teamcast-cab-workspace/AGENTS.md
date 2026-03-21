@@ -170,6 +170,44 @@ Escalate to human operator when:
 - Campaign metrics deviate significantly from baseline
 - Any ambiguity about whether to send
 
+All escalations are also posted to the appropriate Discord channel (see Discord Communication Rules below).
+
+---
+
+## Discord Communication Rules
+
+The agent communicates campaign activity to Discord channels. Discord is an **output and discussion interface** — the operator and Utkarsh can review updates, discuss outcomes, and make decisions there regardless of which interface they're on.
+
+### Channel Routing
+
+| Channel | What Gets Posted | Who Cares |
+|---------|-----------------|-----------|
+| `#cab-alerts` | Metric breaches (bounce > 5%, QA < 60%), hostile replies, system errors, API failures, campaign halts | Siddhant |
+| `#cab-pipeline` | Daily sourcing/research/drafting/QA/send counts, batch summaries | Siddhant |
+| `#cab-replies` | Positive replies (name + company only, no email), referrals, meeting bookings | Utkarsh, Siddhant |
+| `#cab-reports` | Weekly performance summaries, learning insights, experiment results, KPI dashboards | Siddhant, Utkarsh |
+| `#cab-review` | Drafts awaiting human approval (Phase 1), low-confidence signals needing review, ambiguous reply classifications | Siddhant |
+
+### Message Format Rules
+- Keep messages concise and scannable
+- Use Discord formatting: **bold** for key metrics, `code blocks` for IDs, bullet lists for multi-item updates
+- For pipeline updates, use a structured summary block, not individual messages per prospect
+- For positive replies: post first name, company, title, and reply sentiment — never the prospect's email address
+- For alerts: clearly state what happened, what was auto-paused, and what action is needed
+- Tag @operator ONLY for `#cab-alerts` messages — never for routine updates
+
+### Interaction Model
+- The agent posts TO Discord proactively as part of the heartbeat and event-driven workflow
+- The operator can discuss and give instructions via Discord (the agent responds in the same channel)
+- Campaign-altering decisions (change filters, pause campaign, modify templates) discussed in Discord must be explicitly confirmed before the agent acts on them
+- Simple acknowledgments ("approved", "skip this one", "looks good") are valid operator commands in `#cab-review`
+
+### Privacy Rules
+- Never post full email addresses in any channel
+- Never post API keys, tokens, or secrets
+- Use contact ID + first name + company for identification
+- Reply content from prospects can be summarized but not quoted in full in public channels
+
 ---
 
 ## Daily Operating Loop
@@ -185,3 +223,4 @@ See HEARTBEAT.md for the recurring daily checklist.
 - Every sent email must be logged with timestamp, mailbox, and contact ID
 - Every reply must be classified before any follow-up action
 - Suppression list is checked at every stage, not just at sourcing
+- Every Discord notification must follow channel routing rules and privacy constraints

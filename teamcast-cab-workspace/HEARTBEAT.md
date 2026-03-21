@@ -11,7 +11,9 @@
 - [ ] Verify mailbox health and domain reputation
 - [ ] Confirm suppression list is loaded and current
 - [ ] Check API keys and tool connectivity (Apollo, Prospeo, email infra)
+- [ ] Verify Discord channel connectivity (`#cab-alerts`, `#cab-pipeline`, `#cab-replies`, `#cab-reports`, `#cab-review`)
 - [ ] Review previous day's bounce rate — halt if > 5%
+- [ ] If any health check fails, post to `#cab-alerts` and halt
 
 ### 2. Source New Prospects
 - [ ] Run Sourcing Agent with current batch filters
@@ -39,13 +41,15 @@
 - [ ] Check for broken merge tags, duplicate sends, compliance issues
 - [ ] Score each draft: personalization_quality, safety_score, send_readiness, deliverability_risk
 - [ ] Approve drafts above threshold, reject and flag others
-- [ ] If QA pass rate < 60%, halt the batch and alert operator
+- [ ] Post approved drafts to `#cab-review` for human approval (Phase 1)
+- [ ] If QA pass rate < 60%, halt the batch and post alert to `#cab-alerts`
 
 ### 6. Send (Phase 2+)
 - [ ] Run Sending Agent on approved drafts only
 - [ ] Throttle sends per daily limit
 - [ ] Rotate mailboxes as configured
 - [ ] Log every send with timestamp, mailbox, contact ID, message ID
+- [ ] Post daily send summary to `#cab-pipeline` (sent count, delivered, bounced)
 
 ---
 
@@ -55,6 +59,8 @@
 - [ ] Check inbound replies since last run
 - [ ] Classify each reply: positive / no interest / not relevant / defer / referral / auto-reply / bounce
 - [ ] Route positive replies and referrals to Utkarsh
+- [ ] Post positive replies and referrals to `#cab-replies` (first name + company only, no email)
+- [ ] Post hostile replies or spam complaints to `#cab-alerts`
 - [ ] Add opt-outs to suppression list immediately
 - [ ] Log all classifications
 
@@ -77,5 +83,24 @@
 
 ### 10. Report
 - [ ] Generate weekly summary: leads sourced, contacts found, personalization pass rate, QA pass rate, delivery rate, bounce rate, positive reply rate, meetings booked
+- [ ] Post weekly report to `#cab-reports`
 - [ ] Flag any concerning trends
 - [ ] Recommend adjustments for next week
+
+---
+
+## Discord Pipeline Summary (End of Morning Run)
+
+After steps 2-6, post a single consolidated summary to `#cab-pipeline`:
+
+```
+📊 **CAB Pipeline — [Date]**
+• Sourced: [X] prospects ([Y] after dedupe)
+• Researched: [X] signals ([Y] strong, [Z] fallback)
+• Drafted: [X] emails (Email 1: [A], Email 3: [B])
+• QA: [X] approved, [Y] rejected (pass rate: [Z]%)
+• Sent: [X] delivered, [Y] bounced
+• Pending review: [X] drafts in #cab-review
+```
+
+Do NOT post individual updates per step — one consolidated message only.
